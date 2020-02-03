@@ -1,0 +1,23 @@
+{
+	"product-1": {
+		"name": "Lorem ipsum dolor sit amet.",
+		"cost": 10,
+		"quantity": 1,
+		"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis quibusdam nobis omnis exercitationem velit labore.",
+		"image": "img/yabloko.jpg"
+	},
+	"product-2": {
+		"name": "Lorem ipsum dolor sit amet.",
+		"cost": 15,
+		"quantity": 1,
+		"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis quibusdam nobis omnis exercitationem velit labore.",
+		"image": "img/yabloko.jpg"
+	},
+	"product-3": {
+		"name": "Lorem ipsum dolor sit amet.",
+		"cost": 20,
+		"quantity": 1,
+		"description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis quibusdam nobis omnis exercitationem velit labore.",
+		"image": "img/yabloko.jpg"
+	}
+}
